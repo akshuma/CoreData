@@ -63,5 +63,8 @@ class CoreDataManager {
            return [UserEntitie]()
        }
     
+    func updateData() {
+        
+    }
 
 }
